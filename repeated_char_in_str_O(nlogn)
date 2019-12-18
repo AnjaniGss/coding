@@ -22,4 +22,6 @@ int main(){
 	else
 	  cout<<"the string "<<s<<" has repeated characters";
 	  
+
+
 }
