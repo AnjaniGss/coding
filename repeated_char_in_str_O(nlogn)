@@ -1,0 +1,25 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+bool check(string s){
+	int i;
+	sort(s.begin(),s.end());
+	for(i=0;i<s.length()-1;i++){
+	    if(s[i]==s[i+1]){
+				return false;
+			}
+		}
+	return true;
+}
+
+int main(){
+	string s;
+	cout<<"enter a string ";
+	cin>>s;
+	if(check(s)){
+		cout<<"the string "<<s<<" has no repeated characters";
+	}
+	else
+	  cout<<"the string "<<s<<" has repeated characters";
+	  
+}
