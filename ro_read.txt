@@ -1,9 +1,10 @@
 ====================== Not_Done( Ravi || Anjani ) ========================
 https://www.geeksforgeeks.org/how-to-write-long-strings-in-multi-lines-cc/
-
+https://www.geeksforgeeks.org/writing-url-c-program/
 
 //Done(Ravi)
 1> https://www.geeksforgeeks.org/how-to-write-long-strings-in-multi-lines-cc/
+2> https://www.geeksforgeeks.org/writing-url-c-program/
 
 //Done(Anjani)
 1> 
