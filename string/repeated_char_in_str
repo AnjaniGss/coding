@@ -1,0 +1,39 @@
+//=====bad time complexity====
+#include<bits/stdc++.h>
+using namespace std;
+
+bool check(string s){
+	int i,j;
+	for(i=0;i<s.length()-1;i++){
+		for(j=i+1;j<s.length();j++){
+			if(s[i]==s[j]){
+				return false;
+			}
+		}
+	}
+	return true;
+}
+
+int main(){
+	string s;
+	cout<<"enter a string ";
+	cin>>s;
+	if(check(s)){
+		cout<<"the string "<<s<<" has no repeated characters";
+	}
+	else
+	  cout<<"the string "<<s<<" has repeated characters";
+	  
+}
+
+
+//===better solution======
+/*
+1> this sol is in O(nlognn) TC and O(1) SC..sort the string ....then keep two pointers.. adjacent to each other...initially at 0th and 1st position...
+   compare the two chars..if same return false..else move both pts ahead by one step....
+   
+2> this sol is in O(n) TC..keep at ptr at 0th position and then add it to hash table...then move ahead one step and keep adding the chars..
+   if you encounter a char having count>0 then return false...
+
+
+*/
