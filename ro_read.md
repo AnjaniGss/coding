@@ -1,5 +1,5 @@
 #### ====================== Not_Done( Ravi || Anjani ) ========================
-- [x] Ravi - [] Anjani  : https://www.geeksforgeeks.org/how-to-write-long-strings-in-multi-lines-cc/
+- [x] Ravi - [ ] Anjani  : https://www.geeksforgeeks.org/how-to-write-long-strings-in-multi-lines-cc/
 - [x] Ravi - [ ] Anjani : https://www.geeksforgeeks.org/writing-url-c-program/
 
 
