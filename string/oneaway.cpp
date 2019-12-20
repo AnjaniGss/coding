@@ -6,7 +6,7 @@ EXAMPLE
 pale , ple - > tru e
 pales , pale - > tru e
 pale , bale - > tru e
-pale , bale - > fals e 
+pale , bake - > fals e 
 */
 
 
