@@ -1,6 +1,6 @@
 #### ====================== Not_Done( Ravi || Anjani ) ========================
-- [x] [ ] https://www.geeksforgeeks.org/how-to-write-long-strings-in-multi-lines-cc/
-- [x] [ ] https://www.geeksforgeeks.org/writing-url-c-program/
+- [x] - [ ] https://www.geeksforgeeks.org/how-to-write-long-strings-in-multi-lines-cc/
+- [x] - [ ] https://www.geeksforgeeks.org/writing-url-c-program/
 
 
 #### //============== GITHUB COURSE =========== ( "Introduction to GitHub" module covers most of it )
